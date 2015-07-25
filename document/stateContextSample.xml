@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<stateContext>
+	<targetBundle>
+		<id value=""/>
+		<name value=""/>
+		<version value=""/>
+		<mapping name="A">
+			<class path="">
+			<property name="">
+				<type />
+				<reference />
+				<qualifier />
+			</property>
+			</class>
+		</mapping>
+		<mapping name="B">
+			<class path="">
+			<property name="total">
+				<type value="float"/>
+				<reference />
+				<qualifier value="private"/>
+			</property>
+			</class>
+		</mapping>
+	</targetBundle>
+	<mapping name="A">
+		<class path="">
+			<property name="">
+				<type />
+				<reference />
+				<qualifier />
+			</property>
+			</class>
+	</mapping>
+	<mapping name="B">
+		<class path="">
+			<property name="total">
+				<type value="double"/>
+				<reference />
+				<qualifier value="public"/>
+			</property>
+			</class>
+	</mapping>
+	
+</stateContext>

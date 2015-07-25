@@ -1,0 +1,1 @@
+ java -classpath ./bin/felix.jar org.apache.felix.main.Main
